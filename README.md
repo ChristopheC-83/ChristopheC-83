@@ -14,7 +14,7 @@ Mais un jour, je retournerai à Python, ne serait-ce que pour découvrir Django.
 
 1er essai pour débrousailler html/css/js de manière basique (mais quel entrainement !): <br> <br>
 
-<a href="https://barpat.fun/">Mon premier site </a> de présentation (soyez indulgent face au néophyte ! ). <br>
+<a href="https://barpat.fun/">Mon premier site </a> de présentation, soyez indulgent face au néophyte. <br>
 <a href="https://christophe-cuisine.vercel.app/"> Mon site Pro </a> où le poseur de cuisines que je suis s'est aventuré dans les méandres de React/Next. <br>
 <a href="https://barpat.fun/velo-expresso/"> Site pour des amis</a> à refaire avec mes nouevlles connaissances et les infos qu'il me manquent... mais ils ne sont pas très rapides lol
 
