@@ -2,8 +2,8 @@ Salutations !
 
 Apprenti développeur autodidacte : Présent  de puis fin 2021 ! <br> <br>
 
-Après quelques semaines sur l'apprentissage de Python, je voulais voir de mes petits yeux ce que je créais !
-J'ai bifurqué vers le developpement Web.
+Après quelques semaines sur l'apprentissage de Python, je voulais voir de mes petits yeux ce que je créais !<br>
+J'ai bifurqué vers le developpement Web.<br>
 J'ai mangé pas mal de formations Udemy pour se faire. <br> <br>
 
 A l'aise désormais avec 
