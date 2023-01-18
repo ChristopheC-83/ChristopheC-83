@@ -10,7 +10,7 @@ A l'aise désormais avec
 HTML / CSS / JS
 Je m'exerce sur React / Next <br> <br>
 
-Mais un jour, je retournerai à Python, ne serait-ce que pour découvrir Django. <br> <br>
+A venir pour compléter, un passage sur php/SQL sera forcément nécessaire... bientôt ! <br> <br>
 
 1er essai pour débrousailler html/css/js de manière basique (mais quel entrainement !): <br> <br>
 
