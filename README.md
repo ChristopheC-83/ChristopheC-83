@@ -1,6 +1,6 @@
 Salutations !
 
-Apprenti développeur autodidacte : Présent  de puis fin 2021 ! <br> <br>
+Apprenti développeur autodidacte : Présent depuis fin 2021 ! <br> <br>
 
 Après quelques semaines sur l'apprentissage de Python, je voulais voir de mes petits yeux ce que je créais !<br>
 J'ai bifurqué vers le developpement Web.<br>
