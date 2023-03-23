@@ -7,14 +7,19 @@ J'ai bifurqué vers le developpement Web.<br>
 J'ai mangé pas mal de formations Udemy pour se faire. <br> <br>
 
 A l'aise désormais avec 
-HTML / CSS / JS
-Je m'exerce sur React / Next <br> <br>
+HTML / CSS / JS 
+Je bricole REACT avec plaisir ( j'adore ! c'est bête mais j'adore REACT ! c'est grave docteur ? )
 
-A venir pour compléter, un passage sur php/SQL sera forcément nécessaire... bientôt ! <br> <br>
+Pour compléter, je suis sur l'apprentissage de php/SQL pour en avoir au moins les bases.
+C'est pourquoi j'ai un joli trou dans mon github lol
 
-1er essai pour débrousailler html/css/js de manière basique (mais quel entrainement !): <br> <br>
+Après qq essais pour débrousailler html/css/js puis REACT, j'en suis à peu près là : <br> <br>
 
-<a href="https://barpat.fun/">Mon premier site </a> de présentation, soyez indulgent face au néophyte. <br>
-<a href="https://christophe-cuisine.vercel.app/"> Mon site Pro </a> où le poseur de cuisines que je suis s'est aventuré dans les méandres de React/Next. <br>
+<a href="https://barpat.fun/"> Un site de présentation de mon petit parcours ...  </a><br>
+<a href="https://christophe-cuisine.fr/"> Mon site Pro </a> où le poseur de cuisines que je suis s'est aventuré dans les méandres de React. <br>
 <a href="https://barpat.fun/velo-expresso/"> Site pour des amis</a> à refaire avec mes nouvelles connaissances et les infos qu'il me manquent... mais ils ne sont pas très rapides lol
 
+Prochains projets en php pour consolider mon apprentissage.
+Je me refocaliserai par la suite sur du FrontEnd.
+
+Pas à pas.... ça avance !
