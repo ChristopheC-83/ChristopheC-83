@@ -11,7 +11,7 @@ HTML / CSS / JS
 Je bricole REACT avec plaisir ( j'adore ! c'est bête mais j'adore REACT ! c'est grave docteur ? )
 
 Pour compléter, je suis sur l'apprentissage de php/SQL pour en avoir au moins les bases.
-C'est pourquoi j'ai un joli trou dans mon github lol
+C'est pourquoi j'ai un joli trou dans mon github de 5 semines sur février/ mars 2023 lol
 
 Après qq essais pour débrousailler html/css/js puis REACT, j'en suis à peu près là : <br> <br>
 
