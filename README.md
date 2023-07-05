@@ -18,4 +18,7 @@ PHP/SQL me voilà !
 <a href="https://velo-expresso/"> Site pour des amis</a> codé en PHP avec page d'administration pour présenter les vélos en stock.
 
 
-Reste maintenant à mixer le front et le back , React et PHP pour avoir un max d'outils à ma disposition.
+Mais quand on aime, on ne compte pas...
+Une petite musique dans la tête ?
+Quelle est donc cette Symfony que je l'apprenne !?!
+C'est parti mon Kiki ! Apprenons Symfony !
