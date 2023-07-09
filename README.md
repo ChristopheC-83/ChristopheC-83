@@ -18,7 +18,7 @@ PHP/SQL me voilà !
 <a href="https://velo-expresso/"> Site pour des amis</a> codé en PHP avec page d'administration pour présenter les vélos en stock.
 
 
-Mais quand on aime, on ne compte pas...
-Une petite musique dans la tête ?
-Quelle est donc cette Symfony que je l'apprenne !?!
-C'est parti mon Kiki ! Apprenons Symfony !
+Ne voulant pas creuser plus loin le back avec l'apprentissage de Symfony ou Laravel (pour le moment), je vais m'employer à combiner React et php (MVC) avec des formulaires et connexion à partir  de React.
+Php devrait être un pur back*end ne rendant aucune vue.
+
+Let's Go !
