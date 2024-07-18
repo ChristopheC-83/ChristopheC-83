@@ -1,24 +1,15 @@
-Salutations !
+Salutations Distinguées !<br><br>
 
-Développeur autodidacte : Présent depuis fin 2021 ! <br> <br>
+Développeur Web passionné depuis 3 ans ! <br> <br>
 
-Après quelques semaines sur l'apprentissage de Python, je voulais voir de mes petits yeux ce que je créais !<br>
-J'ai bifurqué vers le developpement Web.<br>
-J'ai mangé pas mal de formations Udemy pour se faire. <br> <br>
+J'aime les challenges, trouver des solutions aux problèmes qui me sont proposés.<br>
+Et c'est d'ailleurs notre mode de déplacement ! Avancer de problème en problème !<br>
+Quoi ? les dev seraient un peu sado maso ?<br>
+Un peu ? non !<br>
+Sado Maso, certainement !<br><br>
 
-A l'aise désormais avec 
-HTML / CSS / JS, la base quoi...
-Amoureux de React (c'est grave docteur ???)
-J'ai voulu voir ce qu'il se passait de l'autre côté d'un formulaire...
-PHP/SQL me voilà !
-
-
-<a href="https://barpat.fun/"> Un site de présentation de mon petit parcours ...  </a><br>
-<a href="https://christophe-cuisine.fr/"> Mon site Pro </a> où le poseur de cuisines que je suis s'est aventuré dans les méandres de React. <br>
-<a href="https://velo-expresso/"> Site pour des amis</a> codé en PHP avec page d'administration pour présenter les vélos en stock.
+Mais derrière ces missions qui peuvent semblaient relativement solitaires vues de l'extérieur,<br>
+la communauté des dev est fantastique et est toujours prête à aider, partager.<br>
+Un plaisir de pouvoir rendre ce qu'on nous a donné quand nous en avons enfin les moyens.<br><br>
 
 
-Ne voulant pas creuser plus loin le back avec l'apprentissage de Symfony ou Laravel (pour le moment), je vais m'employer à combiner React et php (MVC) avec des formulaires et connexion à partir  de React.
-Php devrait être un pur back*end ne rendant aucune vue.
-
-Let's Go !
