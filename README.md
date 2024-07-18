@@ -9,7 +9,7 @@ Un peu ? non !<br>
 Sado Maso, certainement !<br><br>
 
 Mais derrière ces missions qui peuvent semblaient relativement solitaires vues de l'extérieur,<br>
-la communauté des dev est fantastique et est toujours prête à aider, partager.<br>
+la communauté des dev est fantastique et est toujours prête à aider, partager.<br><br>
 Un plaisir de pouvoir rendre ce qu'on nous a donné quand nous en avons enfin les moyens.<br><br>
 
 
